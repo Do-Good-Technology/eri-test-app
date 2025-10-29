@@ -1,0 +1,20 @@
+# Node modules in client folder
+client/node_modules/
+
+# Node modules in server folder
+server/node_modules/
+
+# Environment variables
+.env
+
+# Build files
+/build
+/dist
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
