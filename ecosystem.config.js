@@ -14,10 +14,10 @@ module.exports = {
       name: "eri-react-client",
       cwd: "./client",
       script: "npm",
-      args: "run dev", // Or "run preview" if using build output
+      args: "run preview", // Or "run preview" if using build output
       env: {
         NODE_ENV: "production",
-        PORT: 5173,
+        PORT: 4173,
       },
     },
   ],

@@ -11,6 +11,8 @@ server/node_modules/
 /build
 /dist
 
+client/dist
+
 # IDE files
 .idea/
 .vscode/
